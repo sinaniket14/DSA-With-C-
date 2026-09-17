@@ -1,0 +1,5 @@
+            cout<<j;
+        }
+        cout<<endl;
+    }
+}

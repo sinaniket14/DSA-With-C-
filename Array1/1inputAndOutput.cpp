@@ -1,0 +1,8 @@
+#include<iostream>
+using namespace std;
+int main(){
+    int arr[6]={25,12,14,18,19};
+    for(int i=0;i<=4;i++){
+        cout<<arr[i]<<" ";
+    }
+}
